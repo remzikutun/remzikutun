@@ -55,7 +55,7 @@
 <div align="center">
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000")
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&theme=dark")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&theme=merko")
 
 <br>
 
