@@ -38,12 +38,12 @@
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
 </div>
-
+<div align="center"> 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
+</div>
 <!-- 
 name: GitHub-Profile-3D-Contrib
 
