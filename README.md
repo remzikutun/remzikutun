@@ -52,7 +52,6 @@
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-<div align="center"> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox)
@@ -60,4 +59,4 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/remzikutun)
-</div>
+
