@@ -52,10 +52,15 @@
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
- <div align="center">
+ <div align="left">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000&align="left")](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox&align="right")
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000)](https://git.io/streak-stats)
+
+</div>
+ <div align="right">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox)
+
 <br>
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/remzikutun)
