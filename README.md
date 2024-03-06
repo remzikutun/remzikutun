@@ -40,7 +40,7 @@
 </div>
 <div align="center"> 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![contrib graph](./profile-3d-contrib/profile-gitblock.svg)
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 </div>
