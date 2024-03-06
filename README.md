@@ -44,6 +44,7 @@
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 </div>
+
 <!-- 
 name: GitHub-Profile-3D-Contrib
 
@@ -71,8 +72,6 @@ jobs:
           git push
 -->
 
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 
 
