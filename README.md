@@ -23,6 +23,7 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
 
  <div align="center"> 
   <a href="https://www.linkedin.com/in/remzikutun/" target="_blank">
@@ -39,6 +40,7 @@
   </a>
 </div>
 <div align="center"> 
+<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -52,7 +54,8 @@
 
 <div align="center"> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox)
 
 
 
