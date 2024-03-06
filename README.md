@@ -54,7 +54,7 @@
 
  <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=remzikutun&theme=gruvbox&background=000000&align="left")](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox&align="right")
 
 <br>
  
