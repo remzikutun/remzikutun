@@ -52,13 +52,33 @@
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-<div align="center">
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="450" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remzikutun&layout=compact&theme=gruvbox" alt="Top Languages" width="400" />
+</div>
+
+
+
+
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remzikutun&layout=compact) -->
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<div align="center">
+ 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/remzikutun)
 
 </div>
