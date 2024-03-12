@@ -54,7 +54,7 @@
 
 <div align="center"> 
 <div style="display: flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="430" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="450" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remzikutun&layout=compact&theme=gruvbox" alt="Top Languages" width="400" />
 </div>
 </div>
@@ -69,9 +69,10 @@
 <br>
 <br>
 <br>
-
+<!--
 <div align="center">
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/remzikutun)
 
 </div>
+-->
