@@ -11,24 +11,9 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=22&pause=1000&color=FF7F00&center=true&vCenter=true&width=435&lines=I'm+Electrical+-+Electronical+Engineer;42+schools+student" alt="Typing SVG" />
         </a>
-</p>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- </p>
-</div>
-
-
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="25"> <b>Languages and Tools</b>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vim,vscode,arduino" />
-  </a>
-</p>
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
- <div align="center"> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/remzikutun/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
@@ -42,9 +27,27 @@
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
 </div>
+
+</p>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ </p>
+</div>
+
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="25"> <b>Languages and Tools</b>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vim,vscode,arduino" />
+  </a>
+</p>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="25"> <b>My Repository Stats</b>
+
 <div align="center"> 
 <br>
-
+ 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
