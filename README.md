@@ -52,12 +52,12 @@
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-
+<div align="center"> 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=remzikutun&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="430" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remzikutun&layout=compact&theme=gruvbox" alt="Top Languages" width="400" />
 </div>
-
+</div>
 
 
 <br>
