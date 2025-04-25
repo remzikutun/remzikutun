@@ -5,6 +5,7 @@
  <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&width=435&lines=Hello%2C+my+name+is+Remzi+Kutun.;+I+am+an+Electrical+and+Electronics+Engineer." alt="Typing SVG" /></a>
 <br>
+ </div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/remzi-kutun-8b81b518b/" target="_blank">
