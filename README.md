@@ -4,7 +4,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25"> <b>About Me</b>
  <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&width=435&lines=Hello%2C+my+name+is+Remzi+Kutun.;+I+am+an+Electrical+and+Electronics+Engineer." alt="Typing SVG" /></a>
-<br>
  </div>
 
 <div align="center"> 
