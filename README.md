@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2300B3FF&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/><img src="https://komarev.com/ghpvc/?username=remzikutun&&style=plastics&&color=yellow" align="left"/> </p></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Remzi+Kutun.;+I+am+an+Electrical+and+Electronics+Engineer." alt="Typing SVG" /></a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
