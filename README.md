@@ -3,13 +3,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25"> <b>About Me</b>
  <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=22&pause=1000&color=FF7F00&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Remzi+KUTUN+!;" alt="Typing SVG" />
-        </a>
-    <br>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Oleo Script&size=22&pause=1000&color=FF7F00&center=true&vCenter=true&width=435&lines=I'm+Electrical+-+Electronical+Engineer;42+schools+student" alt="Typing SVG" />
-        </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Remzi+Kutun.;+I+am+an+Electrical+and+Electronics+Engineer." alt="Typing SVG" /></a>
 <br>
 
 <div align="center"> 
